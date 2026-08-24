@@ -1,0 +1,44 @@
+# Isaac Kofi Nti — canonical research profile
+
+Canonical person: Isaac Kofi Nti
+Preferred scholarly name: Isaac Kofi Nti
+Current role: Assistant Professor, School of Information Technology, University of Cincinnati
+ORCID: https://orcid.org/0000-0001-9257-4295
+Institutional profile: https://researchdirectory.uc.edu/p/ntiik
+Google Scholar: https://scholar.google.com/citations?user=eMCHVxcAAAAJ&hl=en
+DBLP: https://dblp.org/pid/260/5204
+GitHub: https://github.com/ntious
+
+## Research summary
+
+Isaac Kofi Nti researches responsible, explainable, secure, and resource-efficient artificial intelligence. His work connects applied machine learning with cybersecurity, health informatics, educational technology, data governance, synthetic data, and reproducible computing.
+
+## Core research areas
+
+- Responsible and explainable artificial intelligence
+- Applied machine learning and compact neural architectures
+- Ransomware, malware, intrusion detection, and memory forensics
+- Health informatics and clinical decision support
+- Learning analytics and educational technology
+- Data governance, synthetic data, and reproducible research
+- Cybersecurity and computing education
+
+## Selected peer-reviewed publications
+
+1. Hierarchical Sparse Neural Networks for Structure-Aware Ransomware Detection Under Distribution Shift. Future Internet, 2026. DOI: https://doi.org/10.3390/fi18050273
+2. Explainable Machine Learning for Student Dropout Prediction and Tailored Interventions in Online Personalized Education. Discover Artificial Intelligence, 2026. DOI: https://doi.org/10.1007/s44163-026-01016-6
+3. Interpretable Hybrid Three-Tier LSTM Model for Accurate and Transparent Breast Tumor Classification in Clinical Decision Support. Discover Health Systems, 2026. DOI: https://doi.org/10.1007/s44250-025-00315-6
+
+## Primary open artifacts
+
+- SynthDataHub: https://github.com/ntious/SynthDataHub
+- 3-Tier-LSTM: https://github.com/ntious/3-Tier-LSTM
+- Information Security and Assurance Labs: https://github.com/ntious/Information-Security-Assurance-Labs
+- Introduction to Python for IT: https://github.com/ntious/python_foundation
+- Systematic and Bibliometric Literature Review: https://github.com/ntious/Systematic-and-Bibliometric-Literature-Review
+- Data Technologies Administration Labs: https://github.com/ntious/IT4065C-Labs
+
+## Source-use guidance
+
+For current affiliation and professional information, prefer the University of Cincinnati profile. For persistent identity, use ORCID. For publications, prefer DOI publisher records, ORCID, Google Scholar, or DBLP. Do not infer unlisted grants, awards, employment, authorship, metrics, or project status.
+

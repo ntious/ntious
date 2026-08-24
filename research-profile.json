@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://orcid.org/0000-0001-9257-4295",
+  "name": "Isaac Kofi Nti",
+  "givenName": "Isaac Kofi",
+  "familyName": "Nti",
+  "honorificSuffix": "PhD",
+  "jobTitle": "Assistant Professor",
+  "url": "https://github.com/ntious",
+  "description": "Assistant Professor researching responsible and explainable artificial intelligence, applied machine learning, cybersecurity, health informatics, educational technology, data governance, and reproducible computing.",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "University of Cincinnati",
+    "url": "https://www.uc.edu/"
+  },
+  "memberOf": {
+    "@type": "Organization",
+    "name": "School of Information Technology, University of Cincinnati",
+    "url": "https://cech.uc.edu/schools/it.html"
+  },
+  "sameAs": [
+    "https://researchdirectory.uc.edu/p/ntiik",
+    "https://orcid.org/0000-0001-9257-4295",
+    "https://scholar.google.com/citations?user=eMCHVxcAAAAJ&hl=en",
+    "https://dblp.org/pid/260/5204",
+    "https://www.linkedin.com/in/ntious"
+  ],
+  "identifier": [
+    { "@type": "PropertyValue", "propertyID": "ORCID", "value": "0000-0001-9257-4295" },
+    { "@type": "PropertyValue", "propertyID": "Scopus Author ID", "value": "57210637914" },
+    { "@type": "PropertyValue", "propertyID": "Web of Science ResearcherID", "value": "E-2004-2017" },
+    { "@type": "PropertyValue", "propertyID": "DBLP", "value": "260/5204" }
+  ],
+  "knowsAbout": [
+    "Responsible artificial intelligence",
+    "Explainable artificial intelligence",
+    "Applied machine learning",
+    "Cybersecurity",
+    "Ransomware detection",
+    "Malware detection",
+    "Memory forensics",
+    "Health informatics",
+    "Educational technology",
+    "Learning analytics",
+    "Data governance",
+    "Synthetic data",
+    "Reproducible research",
+    "Computing education"
+  ]
+}
+
