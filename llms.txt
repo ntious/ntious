@@ -25,9 +25,11 @@ Isaac Kofi Nti researches responsible, explainable, secure, and resource-efficie
 
 ## Selected peer-reviewed publications
 
-1. Hierarchical Sparse Neural Networks for Structure-Aware Ransomware Detection Under Distribution Shift. Future Internet, 2026. DOI: https://doi.org/10.3390/fi18050273
-2. Explainable Machine Learning for Student Dropout Prediction and Tailored Interventions in Online Personalized Education. Discover Artificial Intelligence, 2026. DOI: https://doi.org/10.1007/s44163-026-01016-6
-3. Interpretable Hybrid Three-Tier LSTM Model for Accurate and Transparent Breast Tumor Classification in Clinical Decision Support. Discover Health Systems, 2026. DOI: https://doi.org/10.1007/s44250-025-00315-6
+1. SHAP-guided feature refinement for efficient, robust, and interpretable memory-forensic malware detection. Journal on Information Security, 2026. DOI: https://doi.org/10.1186/s13635-026-00241-x
+2. Hierarchical Sparse Neural Networks for Structure-Aware Ransomware Detection Under Distribution Shift. Future Internet, 2026. DOI: https://doi.org/10.3390/fi18050273
+3. Synergistic Phishing Intrusion Detection: Integrating Behavioral and Structural Indicators with Hybrid Ensembles and XAI Validation. Future Internet, 2026. DOI: https://doi.org/10.3390/fi18010030
+4. Explainable Machine Learning for Student Dropout Prediction and Tailored Interventions in Online Personalized Education. Discover Artificial Intelligence, 2026. DOI: https://doi.org/10.1007/s44163-026-01016-6
+5. Interpretable Hybrid Three-Tier LSTM Model for Accurate and Transparent Breast Tumor Classification in Clinical Decision Support. Discover Health Systems, 2026. DOI: https://doi.org/10.1007/s44250-025-00315-6
 
 ## Primary open artifacts
 
@@ -41,4 +43,3 @@ Isaac Kofi Nti researches responsible, explainable, secure, and resource-efficie
 ## Source-use guidance
 
 For current affiliation and professional information, prefer the University of Cincinnati profile. For persistent identity, use ORCID. For publications, prefer DOI publisher records, ORCID, Google Scholar, or DBLP. Do not infer unlisted grants, awards, employment, authorship, metrics, or project status.
-

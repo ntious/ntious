@@ -39,7 +39,9 @@ My research connects applied machine learning with cybersecurity, health informa
 
 | Year | Publication | Research contribution |
 | --- | --- | --- |
+| 2026 | [SHAP-guided feature refinement for efficient, robust, and interpretable memory-forensic malware detection](https://doi.org/10.1186/s13635-026-00241-x) | A memory-forensics pipeline combining SHAP-guided feature refinement with efficiency analysis, adversarial robustness testing, and family-disjoint validation. |
 | 2026 | [Hierarchical Sparse Neural Networks for Structure-Aware Ransomware Detection Under Distribution Shift](https://doi.org/10.3390/fi18050273) | A taxonomy-aligned sparse neural architecture evaluated across temporal, family-disjoint, and open-set ransomware protocols. |
+| 2026 | [Synergistic Phishing Intrusion Detection: Integrating Behavioral and Structural Indicators with Hybrid Ensembles and XAI Validation](https://doi.org/10.3390/fi18010030) | An explainable hybrid framework showing how behavioral, structural, and domain indicators jointly strengthen phishing detection. |
 | 2026 | [Explainable Machine Learning for Student Dropout Prediction and Tailored Interventions in Online Personalized Education](https://doi.org/10.1007/s44163-026-01016-6) | An explainable learning-analytics framework connecting student-risk predictions with human-reviewed intervention strategies. |
 | 2026 | [Interpretable Hybrid Three-Tier LSTM Model for Accurate and Transparent Breast Tumor Classification in Clinical Decision Support](https://doi.org/10.1007/s44250-025-00315-6) | A compact hybrid LSTM pipeline combining tumor classification with SHAP- and LIME-based explanations. |
 
