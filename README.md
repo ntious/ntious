@@ -18,7 +18,7 @@
 
 I am an Assistant Professor in the [School of Information Technology at the University of Cincinnati](https://researchdirectory.uc.edu/p/ntiik). My work sits at the intersection of **applied machine learning, cybersecurity, EduTech, health informatics, data governance, FinTech and responsible AI**.
 
-Across more than 16 years of teaching and research, I have focused on making intelligent systems more useful, explainable, secure, and accountable—particularly in healthcare, education, finance, agriculture, and other high-impact settings. My research record includes more than 70 peer-reviewed publications, alongside open datasets, reproducible experiments, practical security labs, and adaptable computing curricula.
+Across more than 16 years of teaching and research, I have focused on making intelligent systems more useful, explainable, secure, and accountable; particularly in healthcare, education, finance, agriculture, and other high-impact settings. My research record includes more than 70 peer-reviewed publications, alongside open datasets, reproducible experiments, practical security labs, and adaptable computing curricula.
 
 ## Focus areas
 
