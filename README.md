@@ -24,7 +24,7 @@ I develop and evaluate **explainable, efficient, and reliable machine-learning s
 
 My current work is developing around three connected research questions:
 
-### 🔍 Reliable explanations under changing conditions
+### Reliable explanations under changing conditions
 
 **How reliable are AI predictions and explanations when operating conditions change?**
 
