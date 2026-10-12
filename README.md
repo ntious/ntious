@@ -99,7 +99,7 @@ I welcome collaboration with researchers, students, and practitioners working on
 
 A question increasingly connecting my work is:
 
-> **When should an AI system's prediction—and its explanation—be trusted enough to support a consequential decision?**
+> **When should an AI system's prediction, and its explanation be trusted enough to support a consequential decision?**
 
 For research collaboration or student mentorship, visit my [University of Cincinnati research profile](https://researchdirectory.uc.edu/p/ntiik) or connect with me on [LinkedIn](https://www.linkedin.com/in/ntious).
 
