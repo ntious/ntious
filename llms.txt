@@ -11,35 +11,123 @@ GitHub: https://github.com/ntious
 
 ## Research summary
 
-Isaac Kofi Nti researches responsible, explainable, secure, and resource-efficient artificial intelligence. His work connects applied machine learning with cybersecurity, health informatics, educational technology, data governance, synthetic data, and reproducible computing.
+Isaac Kofi Nti develops and evaluates explainable, efficient, and reliable machine-learning systems. His recent research focuses on cybersecurity, examining how changing conditions, limited resources, and incomplete evidence affect predictions and decisions. He also studies explainable decision support in healthcare and education.
 
-## Core research areas
+His research agenda is developing around three connected questions:
 
-- Responsible and explainable artificial intelligence
-- Applied machine learning and compact neural architectures
-- Ransomware, malware, intrusion detection, and memory forensics
-- Health informatics and clinical decision support
-- Learning analytics and educational technology
-- Data governance, synthetic data, and reproducible research
-- Cybersecurity and computing education
+1. How reliable are AI predictions and explanations when operating conditions change?
+2. How do resource constraints and model simplification affect predictive and explanatory reliability?
+3. When should an AI system predict, abstain, defer, or require stronger evidence?
+
+These questions describe an evolving research agenda, not established guarantees of reliability or cross-domain generalization.
+
+## Primary research directions
+
+- Explanation reliability under distribution shift, adversarial conditions, and previously unseen classes
+- Efficient and robust learning through feature refinement, sparsity, lightweight models, and resource-aware inference
+- Evidence-aware decision systems, including evidence integrity, uncertainty, selective prediction, abstention, and human oversight
+
+## Primary experimental setting
+
+Cybersecurity, including:
+
+- Malware and ransomware detection
+- Memory-forensic machine learning
+- Intrusion, anomaly, and phishing detection
+- Cross-dataset and family-disjoint evaluation
+- Federated learning and edge intelligence
+
+## Additional application domains
+
+- Healthcare: interpretable classification and clinical decision support
+- Education: explainable learning analytics, student-risk prediction, and intervention design
+
+These domains provide opportunities to investigate broader applicability; their inclusion does not establish that a shared method has been validated across domains.
 
 ## Selected peer-reviewed publications
 
-1. SHAP-guided feature refinement for efficient, robust, and interpretable memory-forensic malware detection. Journal on Information Security, 2026. DOI: https://doi.org/10.1186/s13635-026-00241-x
-2. Hierarchical Sparse Neural Networks for Structure-Aware Ransomware Detection Under Distribution Shift. Future Internet, 2026. DOI: https://doi.org/10.3390/fi18050273
-3. Synergistic Phishing Intrusion Detection: Integrating Behavioral and Structural Indicators with Hybrid Ensembles and XAI Validation. Future Internet, 2026. DOI: https://doi.org/10.3390/fi18010030
-4. Explainable Machine Learning for Student Dropout Prediction and Tailored Interventions in Online Personalized Education. Discover Artificial Intelligence, 2026. DOI: https://doi.org/10.1007/s44163-026-01016-6
-5. Interpretable Hybrid Three-Tier LSTM Model for Accurate and Transparent Breast Tumor Classification in Clinical Decision Support. Discover Health Systems, 2026. DOI: https://doi.org/10.1007/s44250-025-00315-6
+1. SHAP-guided feature refinement for efficient, robust, and interpretable memory-forensic malware detection. Journal on Information Security, 2026.
+   DOI: https://doi.org/10.1186/s13635-026-00241-x
 
-## Primary open artifacts
+2. Hierarchical Sparse Neural Networks for Structure-Aware Ransomware Detection Under Distribution Shift. Future Internet, 2026.
+   DOI: https://doi.org/10.3390/fi18050273
 
-- SynthDataHub: https://github.com/ntious/SynthDataHub
-- 3-Tier-LSTM: https://github.com/ntious/3-Tier-LSTM
-- Information Security and Assurance Labs: https://github.com/ntious/Information-Security-Assurance-Labs
-- Introduction to Python for IT: https://github.com/ntious/python_foundation
-- Systematic and Bibliometric Literature Review: https://github.com/ntious/Systematic-and-Bibliometric-Literature-Review
-- Data Technologies Administration Labs: https://github.com/ntious/IT4065C-Labs
+3. Synergistic Phishing Intrusion Detection: Integrating Behavioral and Structural Indicators with Hybrid Ensembles and XAI Validation. Future Internet, 2026.
+   DOI: https://doi.org/10.3390/fi18010030
+
+4. Explainable Machine Learning for Student Dropout Prediction and Tailored Interventions in Online Personalized Education. Discover Artificial Intelligence, 2026.
+   DOI: https://doi.org/10.1007/s44163-026-01016-6
+
+5. Interpretable Hybrid Three-Tier LSTM Model for Accurate and Transparent Breast Tumor Classification in Clinical Decision Support. Discover Health Systems, 2026.
+   DOI: https://doi.org/10.1007/s44250-025-00315-6
+
+## Emerging research and preprints
+
+- EGAMA-RC: Risk-Calibrated Evidence-Gated Adaptive Malware Analysis for Robust and Interpretable Memory-Forensic Triage.
+  Focus: selective malware prediction and routing using predictive uncertainty, model disagreement, and novelty signals.
+  Status: preprint.
+  Record: https://arxiv.org/abs/2608.22721
+
+- EGAMA-MF: Evidence-Integrity Gating for Memory-Forensic Malware Triage.
+  Focus: checking extraction status, completeness, and provenance before predictive routing.
+  Status: preprint.
+  Record: https://www.researchgate.net/publication/413786728_EGAMA-MF_Evidence-Integrity_Gating_for_Memory-Forensic_Malware_Triage
+
+Preprints must remain distinct from peer-reviewed publications. Research questions and proposed capabilities must remain distinct from evaluated functionality.
+
+## Research software and resources
+
+- S3LiteNet
+  Purpose: lightweight and sparse models for resource-constrained edge anomaly detection.
+  Documented maturity: benchmarking completed; custom architecture in development.
+  Repository: https://github.com/ntious/S3LiteNet
+
+- 3-Tier-LSTM
+  Purpose: experimental pipeline for interpretable breast-tumor classification.
+  Documented maturity: research code associated with a published study.
+  Repository: https://github.com/ntious/3-Tier-LSTM
+
+- SynthDataHub
+  Purpose: synthetic datasets for machine-learning experimentation and teaching.
+  Repository: https://github.com/ntious/SynthDataHub
+
+- Secure Data Analytics with GenAI
+  Purpose: educational materials on privacy-conscious AI-assisted analytics and human validation.
+  Repository: https://github.com/ntious/secure-data-analytics-with-genai
+
+Project maturity should be checked against current repository documentation. Providing code does not by itself establish independent reproducibility or deployment readiness.
+
+## Teaching and open computing resources
+
+- Information Security and Assurance Labs:
+  https://github.com/ntious/Information-Security-Assurance-Labs
+
+- Introduction to Python for IT:
+  https://github.com/ntious/python_foundation
+
+- Data Technologies Administration Labs:
+  https://github.com/ntious/IT4065C-Labs
+
+- Systematic and Bibliometric Literature Review:
+  https://github.com/ntious/Systematic-and-Bibliometric-Literature-Review
+
+Teaching and mentorship emphasize experimental rigor, reproducibility, security, responsible AI, and project-based learning.
+
+## Collaboration interests
+
+Explainable AI, robust machine learning, cybersecurity analytics, distribution shift, edge intelligence, evidence-aware decision systems, and responsible AI deployment.
+
+For collaboration and student mentorship, use the institutional profile:
+https://researchdirectory.uc.edu/p/ntiik
 
 ## Source-use guidance
 
-For current affiliation and professional information, prefer the University of Cincinnati profile. For persistent identity, use ORCID. For publications, prefer DOI publisher records, ORCID, Google Scholar, or DBLP. Do not infer unlisted grants, awards, employment, authorship, metrics, or project status.
+- Prefer the University of Cincinnati profile for current affiliation and professional information.
+- Use ORCID for persistent scholarly identity.
+- Prefer DOI publisher records for publication titles, authorship, publication status, and corrections.
+- Use ORCID, Google Scholar, and DBLP as supplementary discovery and bibliographic sources.
+- Use preprint records for emerging work and label their publication status explicitly.
+- Use current repository documentation and versioned releases for software scope and maturity.
+- Distinguish proposed research, reported results, independently reproduced findings, and deployment validation.
+- Do not infer unlisted grants, awards, employment, authorship, metrics, project status, clinical validation, intervention effectiveness, or privacy guarantees.
+- Do not treat publication-record counts as counts of unique peer-reviewed works without checking duplicates and version relationships.
