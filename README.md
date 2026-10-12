@@ -30,13 +30,13 @@ My current work is developing around three connected research questions:
 
 I study explainability, distribution shift, open-set evaluation, adversarial conditions, and cross-dataset generalization, particularly in malware, ransomware, and intrusion-detection systems.
 
-### ⚡ Efficient and robust learning
+### Efficient and robust learning
 
 **How do resource constraints and model simplification affect predictive and explanatory reliability?**
 
 My work investigates feature refinement, sparsity, lightweight neural architectures, edge inference, and performance–efficiency–robustness trade-offs.
 
-### 🧭 Evidence-aware decision systems
+### Evidence-aware decision systems
 
 **When should an AI system predict, abstain, defer, or require stronger evidence?**
 
@@ -52,7 +52,7 @@ This emerging direction investigates evidence sufficiency and integrity, selecti
 | 2026 | [Explainable student-dropout prediction](https://doi.org/10.1007/s44163-026-01016-6)              | Dropout prediction across course settings and a proposed intervention framework |
 | 2026 | [Interpretable breast-tumor classification](https://doi.org/10.1007/s44250-025-00315-6)           | Clinical classification with SHAP- and LIME-based interpretation                |
 
-📚 Complete publication record: [Google Scholar](https://scholar.google.com/citations?user=eMCHVxcAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-9257-4295) · [DBLP](https://dblp.org/pid/260/5204)
+Complete publication record: [Google Scholar](https://scholar.google.com/citations?user=eMCHVxcAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-9257-4295) · [DBLP](https://dblp.org/pid/260/5204)
 
 ## Emerging work: evidence-gated AI
 
@@ -89,8 +89,8 @@ My teaching and mentorship emphasize **experimental rigor, reproducibility, secu
 | Resource                                                                                                               | Focus                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | [Information Security & Assurance Labs](https://github.com/ntious/Information-Security-Assurance-Labs)                 | Applied cryptography, TLS, SSH, VPNs, and information assurance        |
-| [Introduction to Python for IT](https://github.com/ntious/python_foundation)                                           | Programming foundations and computational thinking                     |
-| [Data Technologies Administration Labs](https://github.com/ntious/IT4065C-Labs)                                        | Data architecture, administration, governance, protection, and defense |
+| [Introduction to Python for IT](https://ntious.github.io/python_foundation/)                                           | Programming foundations and computational thinking                     |
+| [Data Technologies Administration Labs](https://ntious.github.io/IT4065C-Labs/)                                        | Data architecture, administration, governance, protection, and defense |
 | [Systematic & Bibliometric Literature Review](https://github.com/ntious/Systematic-and-Bibliometric-Literature-Review) | Evidence synthesis, bibliometric analysis, and research methods        |
 
 ## Collaboration
