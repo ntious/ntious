@@ -8,16 +8,21 @@
   "honorificSuffix": "PhD",
   "jobTitle": "Assistant Professor",
   "url": "https://github.com/ntious",
-  "description": "Assistant Professor researching responsible and explainable artificial intelligence, applied machine learning, cybersecurity, health informatics, educational technology, data governance, and reproducible computing.",
-  "affiliation": {
+  "description": "Isaac Kofi Nti develops and evaluates explainable, efficient, and reliable machine-learning systems. His recent research focuses on cybersecurity, examining how changing conditions, limited resources, and incomplete evidence affect predictions and decisions. He also studies explainable decision support in healthcare and education.",
+  "worksFor": {
     "@type": "CollegeOrUniversity",
     "name": "University of Cincinnati",
     "url": "https://www.uc.edu/"
   },
-  "memberOf": {
+  "affiliation": {
     "@type": "Organization",
-    "name": "School of Information Technology, University of Cincinnati",
-    "url": "https://cech.uc.edu/schools/it.html"
+    "name": "School of Information Technology",
+    "url": "https://cech.uc.edu/schools/it.html",
+    "parentOrganization": {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Cincinnati",
+      "url": "https://www.uc.edu/"
+    }
   },
   "sameAs": [
     "https://researchdirectory.uc.edu/p/ntiik",
@@ -27,26 +32,55 @@
     "https://www.linkedin.com/in/ntious"
   ],
   "identifier": [
-    { "@type": "PropertyValue", "propertyID": "ORCID", "value": "0000-0001-9257-4295" },
-    { "@type": "PropertyValue", "propertyID": "Scopus Author ID", "value": "57210637914" },
-    { "@type": "PropertyValue", "propertyID": "Web of Science ResearcherID", "value": "E-2004-2017" },
-    { "@type": "PropertyValue", "propertyID": "DBLP", "value": "260/5204" }
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "0000-0001-9257-4295"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Scopus Author ID",
+      "value": "57210637914"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Web of Science ResearcherID",
+      "value": "E-2004-2017"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "DBLP",
+      "value": "260/5204"
+    }
   ],
   "knowsAbout": [
-    "Responsible artificial intelligence",
     "Explainable artificial intelligence",
-    "Applied machine learning",
-    "Cybersecurity",
-    "Ransomware detection",
-    "Malware detection",
+    "Reliable machine learning",
+    "Explanation fidelity and stability",
+    "Distribution shift",
+    "Open-set evaluation",
+    "Adversarial robustness",
+    "Cross-dataset generalization",
+    "Feature selection and explainability-guided feature refinement",
+    "Sparse and lightweight neural architectures",
+    "Resource-efficient machine learning",
+    "Edge intelligence",
+    "Federated learning",
+    "Evidence-aware decision systems",
+    "Evidence integrity and provenance",
+    "Uncertainty-aware decision-making",
+    "Selective prediction and abstention",
+    "Human oversight in AI decision systems",
+    "Cybersecurity analytics",
+    "Malware and ransomware detection",
     "Memory forensics",
-    "Health informatics",
-    "Educational technology",
-    "Learning analytics",
-    "Data governance",
+    "Intrusion and anomaly detection",
+    "Phishing detection",
+    "Interpretable clinical decision support",
+    "Learning analytics and student-risk prediction",
+    "Responsible AI-assisted analytics",
     "Synthetic data",
     "Reproducible research",
-    "Computing education"
+    "Cybersecurity and computing education"
   ]
 }
-
