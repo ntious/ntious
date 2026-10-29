@@ -92,6 +92,7 @@ My teaching and mentorship emphasize **experimental rigor, reproducibility, secu
 | [Introduction to Python for IT](https://ntious.github.io/python_foundation/)                                           | Programming foundations and computational thinking                     |
 | [Data Technologies Administration Labs](https://ntious.github.io/IT4065C-Labs/)                                        | Data architecture, administration, governance, protection, and defense |
 | [Systematic & Bibliometric Literature Review](https://github.com/ntious/Systematic-and-Bibliometric-Literature-Review) | Evidence synthesis, bibliometric analysis, and research methods        |
+| [Learn machine learning. Build practical AI](https://ntious.github.io/ml_ai_it)                                        | Learning applied machine learning and AI with no prior experience      |
 
 ## Collaboration
 
